@@ -1,2 +1,2 @@
-# Snake-JavaFX-Game
+# Snake JavaFX Game
 Simple JavaFX Snake game
